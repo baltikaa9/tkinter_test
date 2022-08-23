@@ -1,0 +1,6 @@
+.idea
+dist
+venv*
+*.spec
+__pycache__/
+build
